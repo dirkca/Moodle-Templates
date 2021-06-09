@@ -1,0 +1,503 @@
+//BOOK - single column page (12)//
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-12">
+            <p></p>
+            <p><strong>Subtitle Example<br></strong></p>
+            <p>Editable text<br></p>
+            <p>Lorem ipsum dolor sit amet, ad adhuc accusamus mei. Nostrud dissentiunt cum et, eum cu choro ignota adipisci. Aliquam labores vim eu. Id aperiri deterruisset mei, te eos facete antiopam.Ei vidisse consulatu cotidieque vis. Assum fabellas nec
+                in, qui bonorum euripidis at. Putant patrioque scripserit ius ut. Mea ne malis tantas, in tota integre euripidis vix. Novum nonumes disputationi an vix, ad soluta ponderum reprehendunt eos.Ne melius alienum mnesarchum nam, aperiri legendos
+                inimicus ut mea, ea sea veri sadipscing eloquentiam. Vix ne vide fabellas referrentur, eos hinc ferri sanctus an, est et nibh intellegebat. Qui ex natum partiendo, tantas philosophia sed in, mei ad debitis inermis. Nisl nominati quaestio
+                duo an. Scaevola fabellas sit id, et volumus democritum rationibus vix, dolorum erroribus id mei.Per audiam delenit disputationi id, quo audiam vivendo ea. Te eros semper honestatis his. In pro iusto congue, per doming animal ei. Eu per
+                tamquam nusquam luptatum. Quo at noluisse adolescens concludaturque, quo maiestatis neglegentur ex.In equidem docendi instructior quo, commodo similique per ea. Sed an iusto iisque epicuri, at laoreet invenire vix, has ne posse accusata
+                maiestatis. An usu sonet comprehensam vituperatoribus, erant vidisse eleifend no nam. Vix quod perpetua ullamcorper in.<br></p>
+            <p><strong>Subtitle Example 2</strong></p>
+            <p>Editable text<br><strong></strong></p>
+            <p>Lorem ipsum dolor sit amet, ad adhuc accusamus mei. Nostrud dissentiunt cum et, eum cu choro ignota adipisci. Aliquam labores vim eu. Id aperiri deterruisset mei, te eos facete antiopam.Ei vidisse consulatu cotidieque vis. Assum fabellas nec
+                in, qui bonorum euripidis at. Putant patrioque scripserit ius ut. Mea ne malis tantas, in tota integre euripidis vix. Novum nonumes disputationi an vix, ad soluta ponderum reprehendunt eos.Ne melius alienum mnesarchum nam, aperiri legendos
+                inimicus ut mea, ea sea veri sadipscing eloquentiam. Vix ne vide fabellas referrentur, eos hinc ferri sanctus an, est et nibh intellegebat. Qui ex natum partiendo, tantas philosophia sed in, mei ad debitis inermis. Nisl nominati quaestio
+                duo an. Scaevola fabellas sit id, et volumus democritum rationibus vix, dolorum erroribus id mei.Per audiam delenit disputationi id, quo audiam vivendo ea. Te eros semper honestatis his. In pro iusto congue, per doming animal ei. Eu per
+                tamquam nusquam luptatum. Quo at noluisse adolescens concludaturque, quo maiestatis neglegentur ex.In equidem docendi instructior quo, commodo similique per ea. Sed an iusto iisque epicuri, at laoreet invenire vix, has ne posse accusata
+                maiestatis. An usu sonet comprehensam vituperatoribus, erant vidisse eleifend no nam. Vix quod perpetua ullamcorper in.</p>
+            <p></p>
+        </div>
+    </div>
+</div>
+<br>
+//BOOK - 2 columns with images (8+4)//
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-8">
+            <p></p>
+            <p><strong>Subtitle Example<br></strong></p>
+            <p>Editable text<br></p>
+            <p>Lorem ipsum dolor
+                <br></p>
+            <p></p>
+        </div>
+        <div class="col-md-4">
+            <p style="text-align: center;"><br></p>
+            <p style="text-align: center;">[Upload Image Here]<br></p>
+            <p style="text-align: center;"><b>Image-1 Caption <br></b></p>
+            <p style="text-align: center;"><b><br></b></p>
+            <p style="text-align: center;">[Upload Image Here]<b><br></b></p>
+            <p style="text-align: center;"><b>Image-2 Caption<br></b></p>
+            <p style="text-align: center;"><b><br></b></p>
+            <p style="text-align: center;">[Upload Image Here]<br><b></b></p>
+            <p style="text-align: center;"><b>Image-3 Caption<br></b></p>
+            <p style="text-align: center;"><b><br></b></p>
+            <p style="text-align: center;"><b><br></b></p>
+        </div>
+    </div>
+</div>
+<br>
+//BOOK - 2 columns with images (4+8)//
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-4">
+            <p></p><br>
+            <p><strong></strong></p>
+            <p>[Upload Image Here]<br></p>
+            <p><b>Image-1 Caption <br></b></p>
+            <p><b><br></b></p>
+            <p>[Upload Image Here]<b><br></b></p>
+            <p><b>Image-2 Caption<br></b></p>
+            <p><b><br></b></p>
+            <p>[Upload Image Here]<br><b></b></p>
+            <p><b>Image-3 Caption<br></b></p>
+            <p><b><br></b></p>
+            <p><b><br></b></p>
+            <p><br></p>
+            <p></p>
+        </div>
+        <div class="col-md-8">
+            <p style="text-align: center;"><br></p>
+            <p style="text-align: center;"></p>
+            <p><strong>Subtitle Example<br></strong></p>
+            <p>Editable text<br></p>
+            <p>Lorem ipsum dolor sit amet, ad adhuc accusamus mei. Nostrud dissentiunt cum et, eum cu choro ignota adipisci. Aliquam labores vim eu. Id aperiri deterruisset mei, te eos facete antiopam.Ei vidisse consulatu cotidieque vis. Assum fabellas nec
+                in, qui bonorum euripidis at. Putant patrioque scripserit ius ut. Mea ne malis tantas, in tota integre euripidis vix. Novum nonumes disputationi an vix, ad soluta ponderum reprehendunt eos.Ne melius alienum mnesarchum nam, aperiri legendos
+                inimicus ut mea, ea sea veri sadipscing eloquentiam. Vix ne vide fabellas referrentur, eos hinc ferri sanctus an, est et nibh intellegebat. Qui ex natum partiendo, tantas philosophia sed in, mei ad debitis inermis. Nisl nominati quaestio
+                duo an. Scaevola fabellas sit id, et volumus democritum rationibus vix, dolorum erroribus id mei.Per audiam delenit disputationi id, quo audiam vivendo ea. Te eros semper honestatis his. In pro iusto congue, per doming animal ei. Eu per
+                tamquam nusquam luptatum. Quo at noluisse adolescens concludaturque, quo maiestatis neglegentur ex.In equidem docendi instructior quo, commodo similique per ea. Sed an iusto iisque epicuri, at laoreet invenire vix, has ne posse accusata
+                maiestatis. An usu sonet comprehensam vituperatoribus, erant vidisse eleifend no nam. Vix quod perpetua ullamcorper in.</p>
+            <p></p>
+            <p><strong>Subtitle Example 2<br></strong></p>
+            <p>Editable text<br></p>
+            <p>Lorem ipsum dolor sit amet, ad adhuc accusamus mei. Nostrud dissentiunt cum et, eum cu choro ignota adipisci. Aliquam labores vim eu. Id aperiri deterruisset mei, te eos facete antiopam.Ei vidisse consulatu cotidieque vis. Assum fabellas nec
+                in, qui bonorum euripidis at. Putant patrioque scripserit ius ut. Mea ne malis tantas, in tota integre euripidis vix. Novum nonumes disputationi an vix, ad soluta ponderum reprehendunt eos.Ne melius alienum mnesarchum nam, aperiri legendos
+                inimicus ut mea, ea sea veri sadipscing eloquentiam. Vix ne vide fabellas referrentur, eos hinc ferri sanctus an, est et nibh intellegebat. Qui ex natum partiendo, tantas philosophia sed in, mei ad debitis inermis. Nisl nominati quaestio
+                duo an. Scaevola fabellas sit id, et volumus democritum rationibus vix, dolorum erroribus id mei.Per audiam delenit disputationi id, quo audiam vivendo ea. Te eros semper honestatis his. In pro iusto congue, per doming animal ei. Eu per
+                tamquam nusquam luptatum. Quo at noluisse adolescens concludaturque, quo maiestatis neglegentur ex.In equidem docendi instructior quo, commodo similique per ea. Sed an iusto iisque epicuri, at laoreet invenire vix, has ne posse accusata
+                maiestatis. An usu sonet comprehensam vituperatoribus, erant vidisse eleifend no nam. Vix quod perpetua ullamcorper in.</p><br>
+            <p></p>
+            <p style="text-align: center;"><b><br></b></p>
+        </div>
+    </div>
+</div>
+<br>
+//BOOK - 2 columns with LARGE images (4+8)//
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-4">
+            <p></p>
+            <p><strong>Subtitle Example<br></strong></p>
+            <p>Editable text<br></p>
+            <p>Lorem ipsum dolor sit amet, ad adhuc accusamus mei. Nostrud dissentiunt cum et, eum cu choro ignota adipisci. Aliquam labores vim eu. Id aperiri deterruisset mei, te eos facete antiopam.Ei vidisse consulatu cotidieque vis. Assum fabellas nec
+                in, qui bonorum euripidis at. Putant patrioque scripserit ius ut. Mea ne malis tantas, in tota integre euripidis vix. Novum nonumes disputationi an vix, ad soluta ponderum reprehendunt eos.Ne melius alienum mnesarchum nam, aperiri legendos
+                inimicus ut mea, ea sea veri sadipscing eloquentiam. Vix ne vide fabellas referrentur, eos hinc ferri sanctus an, est et nibh intellegebat. Qui ex natum partiendo, tantas philosophia sed in, mei ad debitis inermis. Nisl nominati quaestio
+                duo an. Scaevola fabellas sit id, et volumus democritum rationibus vix, dolorum erroribus id mei.Per audiam delenit disputationi id, quo audiam vivendo ea. Te eros semper honestatis his. In pro iusto congue, per doming animal ei. Eu per
+                tamquam nusquam luptatum. Quo at noluisse adolescens concludaturque, quo maiestatis neglegentur ex.In equidem docendi instructior quo, commodo similique per ea. Sed an iusto iisque epicuri, at laoreet invenire vix, has ne posse accusata
+                maiestatis. An usu sonet comprehensam vituperatoribus, erant vidisse eleifend no nam. Vix quod perpetua ullamcorper in.<br></p>
+            <p><strong>Subtitle Example 2</strong></p>
+            <p>Editable text<br><strong></strong></p>
+            <p>Lorem ipsum dolor sit amet, ad adhuc accusamus mei. Nostrud dissentiunt cum et, eum cu choro ignota adipisci. Aliquam labores vim eu. Id aperiri deterruisset mei, te eos facete antiopam.Ei vidisse consulatu cotidieque vis. Assum fabellas nec
+                in, qui bonorum euripidis at. Putant patrioque scripserit ius ut. Mea ne malis tantas, in tota integre euripidis vix. Novum nonumes disputationi an vix, ad soluta ponderum reprehendunt eos.Ne melius alienum mnesarchum nam, aperiri legendos
+                inimicus ut mea, ea sea veri sadipscing eloquentiam. Vix ne vide fabellas referrentur, eos hinc ferri sanctus an, est et nibh intellegebat. Qui ex natum partiendo, tantas philosophia sed in, mei ad debitis inermis. Nisl nominati quaestio
+                duo an. Scaevola fabellas sit id, et volumus democritum rationibus vix, dolorum erroribus id mei.Per audiam delenit disputationi id, quo audiam vivendo ea. Te eros semper honestatis his. In pro iusto congue, per doming animal ei. Eu per
+                tamquam nusquam luptatum. Quo at noluisse adolescens concludaturque, quo maiestatis neglegentur ex.In equidem docendi instructior quo, commodo similique per ea. Sed an iusto iisque epicuri, at laoreet invenire vix, has ne posse accusata
+                maiestatis. An usu sonet comprehensam vituperatoribus, erant vidisse eleifend no nam. Vix quod perpetua ullamcorper in.<br></p>
+            <p></p>
+        </div>
+        <div class="col-md-8">
+            <p style="text-align: center;">[Upload Image Here]<br></p>
+            <p style="text-align: center;"><b>Image-1 Caption <br></b></p>
+            <p style="text-align: center;"><b><br></b></p>
+            <p style="text-align: center;">[Upload Image Here]<b><br></b></p>
+            <p style="text-align: center;"><b>Image-2 Caption<br></b></p>
+            <p style="text-align: center;"><b><br></b></p>
+            <p style="text-align: center;">[Upload Image Here]<br><b></b></p>
+            <p style="text-align: center;"><b>Image-3 Caption<br></b></p>
+            <p style="text-align: center;"><b><br></b></p>
+            <p style="text-align: center;"><b><br></b></p>
+        </div>
+    </div>
+</div>
+<br>
+//BOOK - 2 column / 1 column / 2 column - (8+4/12/8+4)//
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-8">
+            <p></p>
+            <p></p>
+            <p><strong>Subtitle Example<br></strong></p>
+            <p>Editable text<br></p>
+            <p>Lorem ipsum dolor sit amet, ad adhuc accusamus mei. Nostrud dissentiunt cum et, eum cu choro ignota adipisci. Aliquam labores vim eu. Id aperiri deterruisset mei, te eos facete antiopam.Ei vidisse consulatu cotidieque vis. Assum fabellas nec
+                in, qui bonorum euripidis at. Putant patrioque scripserit ius ut. Mea ne malis tantas, in tota integre euripidis vix. Novum nonumes disputationi an vix, ad soluta ponderum reprehendunt eos.Ne melius alienum mnesarchum nam, aperiri legendos
+                inimicus ut mea, ea sea veri sadipscing eloquentiam. Vix ne vide fabellas referrentur, eos hinc ferri sanctus an, est et nibh intellegebat. Qui ex natum partiendo, tantas philosophia sed in, mei ad debitis inermis. Nisl nominati quaestio
+                duo an. Scaevola fabellas sit id, et volumus democritum rationibus vix, dolorum erroribus id mei.Per audiam delenit disputationi id, quo audiam vivendo ea. Te eros semper honestatis his. In pro iusto congue, per doming animal ei. Eu per
+                tamquam nusquam luptatum. Quo at noluisse adolescens concludaturque, quo maiestatis neglegentur ex.In equidem docendi instructior quo, commodo similique per ea. Sed an iusto iisque epicuri, at laoreet invenire vix, has ne posse accusata
+                maiestatis. An usu sonet comprehensam vituperatoribus, erant vidisse eleifend no nam. Vix quod perpetua ullamcorper in.</p>
+            <p><b></b></p>
+            <p></p>
+        </div>
+        <div class="col-md-4">
+            <p></p>
+            <p><strong></strong></p>
+            <p><br></p>
+            <p>[Upload Image Here]<br></p>
+            <p><b>Image-1 Caption </b></p>
+            <p></p>
+            <p></p>
+        </div>
+    </div>
+</div>
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-12">
+            <p></p>
+            <p><strong>Subtitle Example<br></strong></p>
+            <p>Editable text<br></p>
+            <p>Lorem ipsum dolor sit amet, ad adhuc accusamus mei. Nostrud dissentiunt cum et, eum cu choro ignota adipisci. Aliquam labores vim eu. Id aperiri deterruisset mei, te eos facete antiopam.Ei vidisse consulatu cotidieque vis. Assum fabellas nec
+                in, qui bonorum euripidis at. Putant patrioque scripserit ius ut. Mea ne malis tantas, in tota integre euripidis vix. Novum nonumes disputationi an vix, ad soluta ponderum reprehendunt eos.Ne melius alienum mnesarchum nam, aperiri legendos
+                inimicus ut mea, ea sea veri sadipscing eloquentiam. Vix ne vide fabellas referrentur, eos hinc ferri sanctus an, est et nibh intellegebat. Qui ex natum partiendo, tantas philosophia sed in, mei ad debitis inermis. Nisl nominati quaestio
+                duo an. Scaevola fabellas sit id, et volumus democritum rationibus vix, dolorum erroribus id mei.Per audiam delenit disputationi id, quo audiam vivendo ea. Te eros semper honestatis his. In pro iusto congue, per doming animal ei. Eu per
+                tamquam nusquam luptatum. Quo at noluisse adolescens concludaturque, quo maiestatis neglegentur ex.In equidem docendi instructior quo, commodo similique per ea. Sed an iusto iisque epicuri, at laoreet invenire vix, has ne posse accusata
+                maiestatis. An usu sonet comprehensam vituperatoribus, erant vidisse eleifend no nam. Vix quod perpetua ullamcorper in.</p>
+            <p></p>
+        </div>
+    </div>
+</div>
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-8">
+            <p></p>
+
+            <p></p>
+            <p><strong>Subtitle Example<br></strong></p>
+            <p>Editable text<br></p>
+            <p>Lorem ipsum dolor sit amet, ad adhuc accusamus mei. Nostrud dissentiunt cum et, eum cu choro ignota adipisci. Aliquam labores vim eu. Id aperiri deterruisset mei, te eos facete antiopam.Ei vidisse consulatu cotidieque vis. Assum fabellas nec
+                in, qui bonorum euripidis at. Putant patrioque scripserit ius ut. Mea ne malis tantas, in tota integre euripidis vix. Novum nonumes disputationi an vix, ad soluta ponderum reprehendunt eos.Ne melius alienum mnesarchum nam, aperiri legendos
+                inimicus ut mea, ea sea veri sadipscing eloquentiam. Vix ne vide fabellas referrentur, eos hinc ferri sanctus an, est et nibh intellegebat. Qui ex natum partiendo, tantas philosophia sed in, mei ad debitis inermis. Nisl nominati quaestio
+                duo an. Scaevola fabellas sit id, et volumus democritum rationibus vix, dolorum erroribus id mei.Per audiam delenit disputationi id, quo audiam vivendo ea. Te eros semper honestatis his. In pro iusto congue, per doming animal ei. Eu per
+                tamquam nusquam luptatum. Quo at noluisse adolescens concludaturque, quo maiestatis neglegentur ex.In equidem docendi instructior quo, commodo similique per ea. Sed an iusto iisque epicuri, at laoreet invenire vix, has ne posse accusata
+                maiestatis. An usu sonet comprehensam vituperatoribus, erant vidisse eleifend no nam. Vix quod perpetua ullamcorper in.</p>
+            <p><b></b></p>
+            <p></p>
+        </div>
+        <div class="col-md-4">
+            <p></p>
+            <p><strong></strong></p>
+            <p><br></p>
+            <p>[Upload Image Here]<br></p>
+            <p><b>Image-1 Caption </b></p>
+            <p></p>
+            <p></p>
+        </div>
+    </div>
+</div>
+//BOOK - 2 column / 1 column / 2 column - (4+8/12/4+8)//
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-4">
+            <p></p>
+            <p><br></p>
+            <p>[Upload Image Here]<br></p>
+            <p><b>Image-1 Caption </b></p>
+            <p></p>
+        </div>
+        <div class="col-md-8">
+            <p></p>
+            <p><strong>Subtitle Example<br></strong></p>
+            <p>Editable text<br></p>
+            <p>Lorem ipsum dolor sit amet, ad adhuc accusamus mei. Nostrud dissentiunt cum et, eum cu choro ignota adipisci. Aliquam labores vim eu. Id aperiri deterruisset mei, te eos facete antiopam.Ei vidisse consulatu cotidieque vis. Assum fabellas nec
+                in, qui bonorum euripidis at. Putant patrioque scripserit ius ut. Mea ne malis tantas, in tota integre euripidis vix. Novum nonumes disputationi an vix, ad soluta ponderum reprehendunt eos.Ne melius alienum mnesarchum nam, aperiri legendos
+                inimicus ut mea, ea sea veri sadipscing eloquentiam. Vix ne vide fabellas referrentur, eos hinc ferri sanctus an, est et nibh intellegebat. Qui ex natum partiendo, tantas philosophia sed in, mei ad debitis inermis. Nisl nominati quaestio
+                duo an. Scaevola fabellas sit id, et volumus democritum rationibus vix, dolorum erroribus id mei.Per audiam delenit disputationi id, quo audiam vivendo ea. Te eros semper honestatis his. In pro iusto congue, per doming animal ei. Eu per
+                tamquam nusquam luptatum. Quo at noluisse adolescens concludaturque, quo maiestatis neglegentur ex.In equidem docendi instructior quo, commodo similique per ea. Sed an iusto iisque epicuri, at laoreet invenire vix, has ne posse accusata
+                maiestatis. An usu sonet comprehensam vituperatoribus, erant vidisse eleifend no nam. Vix quod perpetua ullamcorper in.</p>
+            <p></p>
+        </div>
+    </div>
+</div>
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-12">
+            <p></p>
+            <p><strong>Subtitle Example<br></strong></p>
+            <p>Editable text<br></p>
+            <p>Lorem ipsum dolor sit amet, ad adhuc accusamus mei. Nostrud dissentiunt cum et, eum cu choro ignota adipisci. Aliquam labores vim eu. Id aperiri deterruisset mei, te eos facete antiopam.Ei vidisse consulatu cotidieque vis. Assum fabellas nec
+                in, qui bonorum euripidis at. Putant patrioque scripserit ius ut. Mea ne malis tantas, in tota integre euripidis vix. Novum nonumes disputationi an vix, ad soluta ponderum reprehendunt eos.Ne melius alienum mnesarchum nam, aperiri legendos
+                inimicus ut mea, ea sea veri sadipscing eloquentiam. Vix ne vide fabellas referrentur, eos hinc ferri sanctus an, est et nibh intellegebat. Qui ex natum partiendo, tantas philosophia sed in, mei ad debitis inermis. Nisl nominati quaestio
+                duo an. Scaevola fabellas sit id, et volumus democritum rationibus vix, dolorum erroribus id mei.Per audiam delenit disputationi id, quo audiam vivendo ea. Te eros semper honestatis his. In pro iusto congue, per doming animal ei. Eu per
+                tamquam nusquam luptatum. Quo at noluisse adolescens concludaturque, quo maiestatis neglegentur ex.In equidem docendi instructior quo, commodo similique per ea. Sed an iusto iisque epicuri, at laoreet invenire vix, has ne posse accusata
+                maiestatis. An usu sonet comprehensam vituperatoribus, erant vidisse eleifend no nam. Vix quod perpetua ullamcorper in.</p>
+            <p></p>
+        </div>
+    </div>
+</div>
+<br>
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-4">
+            <p></p>
+            <p><br></p>
+            <p>[Upload Image Here]<br></p>
+            <p><b>Image-1 Caption </b></p>
+            <p></p>
+        </div>
+        <div class="col-md-8">
+            <p></p>
+            <p><strong>Subtitle Example<br></strong></p>
+            <p>Editable text<br></p>
+            <p>Lorem ipsum dolor sit amet, ad adhuc accusamus mei. Nostrud dissentiunt cum et, eum cu choro ignota adipisci. Aliquam labores vim eu. Id aperiri deterruisset mei, te eos facete antiopam.Ei vidisse consulatu cotidieque vis. Assum fabellas nec
+                in, qui bonorum euripidis at. Putant patrioque scripserit ius ut. Mea ne malis tantas, in tota integre euripidis vix. Novum nonumes disputationi an vix, ad soluta ponderum reprehendunt eos.Ne melius alienum mnesarchum nam, aperiri legendos
+                inimicus ut mea, ea sea veri sadipscing eloquentiam. Vix ne vide fabellas referrentur, eos hinc ferri sanctus an, est et nibh intellegebat. Qui ex natum partiendo, tantas philosophia sed in, mei ad debitis inermis. Nisl nominati quaestio
+                duo an. Scaevola fabellas sit id, et volumus democritum rationibus vix, dolorum erroribus id mei.Per audiam delenit disputationi id, quo audiam vivendo ea. Te eros semper honestatis his. In pro iusto congue, per doming animal ei. Eu per
+                tamquam nusquam luptatum. Quo at noluisse adolescens concludaturque, quo maiestatis neglegentur ex.In equidem docendi instructior quo, commodo similique per ea. Sed an iusto iisque epicuri, at laoreet invenire vix, has ne posse accusata
+                maiestatis. An usu sonet comprehensam vituperatoribus, erant vidisse eleifend no nam. Vix quod perpetua ullamcorper in.</p>
+            <p></p>
+        </div>
+    </div>
+</div>
+<br>
+//BOOK - Video Page 1//
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-12">
+            <p></p>
+            <p><strong>Subtitle Example 1<br></strong></p>
+            <p>Editable text<br></p>
+            <p>Lorem ipsum dolor sit amet, ad adhuc accusamus mei. Nostrud dissentiunt cum et, eum cu choro ignota adipisci. Aliquam labores vim eu. Id aperiri deterruisset mei, te eos facete antiopam.Ei vidisse consulatu cotidieque vis. Assum fabellas nec
+                in, qui bonorum euripidis at. Putant patrioque scripserit ius ut. Mea ne malis tantas, in tota integre euripidis vix. Novum nonumes disputationi an vix, ad soluta ponderum reprehendunt eos.Ne melius alienum mnesarchum nam, aperiri legendos
+                inimicus ut mea, ea sea veri sadipscing eloquentiam. Vix ne vide fabellas referrentur, eos hinc ferri sanctus an, est et nibh intellegebat. Qui ex natum partiendo, tantas philosophia sed in, mei ad debitis inermis. Nisl nominati quaestio
+                duo an. Scaevola fabellas sit id, et volumus democritum rationibus vix, dolorum erroribus id mei.Per audiam delenit disputationi id, quo audiam vivendo ea. Te eros semper honestatis his. In pro iusto congue, per doming animal ei. Eu per
+                tamquam nusquam luptatum. Quo at noluisse adolescens concludaturque, quo maiestatis neglegentur ex.In equidem docendi instructior quo, commodo similique per ea. Sed an iusto iisque epicuri, at laoreet invenire vix, has ne posse accusata
+                maiestatis. An usu sonet comprehensam vituperatoribus, erant vidisse eleifend no nam. Vix quod perpetua ullamcorper in.</p>
+            <p></p>
+        </div>
+    </div>
+</div>
+<br>
+<p style="text-align: center;"><b>*PUT YOUR VIDEO LINK OR MEDIA EMBED CODE HERE*</b><br></p>
+//BOOK - Video Page 2//
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-8">
+            <p></p>
+            <p><strong>Subtitle Example<br></strong></p>
+            <p>Editable text<br></p>
+            <p>Lorem ipsum dolor sit amet, ad adhuc accusamus mei. Nostrud dissentiunt cum et, eum cu choro ignota adipisci. Aliquam labores vim eu. Id aperiri deterruisset mei, te eos facete antiopam.Ei vidisse consulatu cotidieque vis. Assum fabellas nec
+                in, qui bonorum euripidis at. Putant patrioque scripserit ius ut. Mea ne malis tantas, in tota integre euripidis vix. Novum nonumes disputationi an vix, ad soluta ponderum reprehendunt eos.Ne melius alienum mnesarchum nam, aperiri legendos
+                inimicus ut mea, ea sea veri sadipscing eloquentiam. Vix ne vide fabellas referrentur, eos hinc ferri sanctus an, est et nibh intellegebat. Qui ex natum partiendo, tantas philosophia sed in, mei ad debitis inermis. Nisl nominati quaestio
+                duo an. Scaevola fabellas sit id, et volumus democritum rationibus vix, dolorum erroribus id mei.Per audiam delenit disputationi id, quo audiam vivendo ea. Te eros semper honestatis his. In pro iusto congue, per doming animal ei. Eu per
+                tamquam nusquam luptatum. Quo at noluisse adolescens concludaturque, quo maiestatis neglegentur ex.In equidem docendi instructior quo, commodo similique per ea. Sed an iusto iisque epicuri, at laoreet invenire vix, has ne posse accusata
+                maiestatis. An usu sonet comprehensam vituperatoribus, erant vidisse eleifend no nam. Vix quod perpetua ullamcorper in.<br></p>
+            <p></p>
+        </div>
+        <div class="col-md-4">
+            <p style="text-align: center;"><br></p>
+            <p style="text-align: center;">[Upload Image Here]<br></p>
+            <p style="text-align: center;"><b>Image-1 Caption <br></b></p>
+            <p style="text-align: center;"><b><br></b></p>
+            <p style="text-align: center;">[Upload Image Here]<b><br></b></p>
+            <p style="text-align: center;"><b>Image-2 Caption<br></b></p>
+            <p style="text-align: center;"><b><br></b></p>
+            <p style="text-align: center;"><b><br></b></p>
+            <p style="text-align: center;"><b><br></b></p>
+        </div>
+    </div>
+</div>
+<br>
+<p style="text-align: center;"><b>*PUT YOUR VIDEO LINK OR MEDIA EMBED CODE HERE*<br></b></p>
+//BOOK - 1 column followed by 2 (12/8+4)//
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-12">
+            <p></p>
+            <p><strong>Subtitle Example 1</strong></p>
+            <p>Editable text<br><strong></strong></p>
+            <p>Lorem ipsum dolor sit amet, ad adhuc accusamus mei. Nostrud dissentiunt cum et, eum cu choro ignota adipisci. Aliquam labores vim eu. Id aperiri deterruisset mei, te eos facete antiopam.Ei vidisse consulatu cotidieque vis. Assum fabellas nec
+                in, qui bonorum euripidis at. Putant patrioque scripserit ius ut. Mea ne malis tantas, in tota integre euripidis vix. Novum nonumes disputationi an vix, ad soluta ponderum reprehendunt eos.Ne melius alienum mnesarchum nam, aperiri legendos
+                inimicus ut mea, ea sea veri sadipscing eloquentiam. Vix ne vide fabellas referrentur, eos hinc ferri sanctus an, est et nibh intellegebat. Qui ex natum partiendo, tantas philosophia sed in, mei ad debitis inermis. Nisl nominati quaestio
+                duo an. Scaevola fabellas sit id, et volumus democritum rationibus vix, dolorum erroribus id mei.Per audiam delenit disputationi id, quo audiam vivendo ea. Te eros semper honestatis his. In pro iusto congue, per doming animal ei. Eu per
+                tamquam nusquam luptatum. Quo at noluisse adolescens concludaturque, quo maiestatis neglegentur ex.In equidem docendi instructior quo, commodo similique per ea. Sed an iusto iisque epicuri, at laoreet invenire vix, has ne posse accusata
+                maiestatis. An usu sonet comprehensam vituperatoribus, erant vidisse eleifend no nam. Vix quod perpetua ullamcorper in.</p>
+            <p></p>
+        </div>
+    </div>
+</div>
+<br>
+
+<div class="row">
+    <div class="col-md-8">
+        <p></p>
+        <p><strong>Subtitle Example 2</strong></p>
+        <p>Editable text<br><strong></strong></p>
+        <p>Lorem ipsum dolor sit amet, ad adhuc accusamus mei. Nostrud dissentiunt cum et, eum cu choro ignota adipisci. Aliquam labores vim eu. Id aperiri deterruisset mei, te eos facete antiopam.Ei vidisse consulatu cotidieque vis. Assum fabellas nec in,
+            qui bonorum euripidis at. Putant patrioque scripserit ius ut. Mea ne malis tantas, in tota integre euripidis vix. Novum nonumes disputationi an vix, ad soluta ponderum reprehendunt eos.Ne melius alienum mnesarchum nam, aperiri legendos inimicus
+            ut mea, ea sea veri sadipscing eloquentiam. Vix ne vide fabellas referrentur, eos hinc ferri sanctus an, est et nibh intellegebat. Qui ex natum partiendo, tantas philosophia sed in, mei ad debitis inermis. Nisl nominati quaestio duo an. Scaevola
+            fabellas sit id, et volumus democritum rationibus vix, dolorum erroribus id mei.Per audiam delenit disputationi id, quo audiam vivendo ea. Te eros semper honestatis his. In pro iusto congue, per doming animal ei. Eu per tamquam nusquam luptatum.
+            Quo at noluisse adolescens concludaturque, quo maiestatis neglegentur ex.In equidem docendi instructior quo, commodo similique per ea. Sed an iusto iisque epicuri, at laoreet invenire vix, has ne posse accusata maiestatis. An usu sonet comprehensam
+            vituperatoribus, erant vidisse eleifend no nam. Vix quod perpetua ullamcorper in.</p>
+        <p></p>
+    </div>
+    <div class="col-md-4">
+        <p style="text-align: center;"></p>
+        <p style="text-align: center;">[Upload Image Here]<br></p>
+        <p style="text-align: center;"><b>Image-1 Caption <br></b></p>
+        <p style="text-align: center;"><b><br></b></p>
+        <p style="text-align: center;">[Upload Image Here]<b><br></b></p>
+        <p style="text-align: center;"><b>Image-2 Caption</b></p>
+        <p></p>
+    </div>
+</div>
+<br>
+//BOOK - 2 column followed by 1 (8+4/12)//
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-8">
+            <p></p>
+            <p><strong>Subtitle Example<br></strong></p>
+            <p>Editable text<br></p>
+            <p>Lorem ipsum dolor sit amet, ad adhuc accusamus mei. Nostrud dissentiunt cum et, eum cu choro ignota adipisci. Aliquam labores vim eu. Id aperiri deterruisset mei, te eos facete antiopam.Ei vidisse consulatu cotidieque vis. Assum fabellas nec
+                in, qui bonorum euripidis at. Putant patrioque scripserit ius ut. Mea ne malis tantas, in tota integre euripidis vix. Novum nonumes disputationi an vix, ad soluta ponderum reprehendunt eos.Ne melius alienum mnesarchum nam, aperiri legendos
+                inimicus ut mea, ea sea veri sadipscing eloquentiam. Vix ne vide fabellas referrentur, eos hinc ferri sanctus an, est et nibh intellegebat. Qui ex natum partiendo, tantas philosophia sed in, mei ad debitis inermis. Nisl nominati quaestio
+                duo an. Scaevola fabellas sit id, et volumus democritum rationibus vix, dolorum erroribus id mei.Per audiam delenit disputationi id, quo audiam vivendo ea. Te eros semper honestatis his. In pro iusto congue, per doming animal ei. Eu per
+                tamquam nusquam luptatum. Quo at noluisse adolescens concludaturque, quo maiestatis neglegentur ex.In equidem docendi instructior quo, commodo similique per ea. Sed an iusto iisque epicuri, at laoreet invenire vix, has ne posse accusata
+                maiestatis. An usu sonet comprehensam vituperatoribus, erant vidisse eleifend no nam. Vix quod perpetua ullamcorper in.<br></p>
+            <p></p>
+        </div>
+        <div class="col-md-4">
+            <p style="text-align: center;"><br></p>
+            <p style="text-align: center;"><br></p>
+            <p style="text-align: center;">[Upload Image Here]<br></p>
+            <p style="text-align: center;"><b>Image-1 Caption <br></b></p>
+            <p style="text-align: center;"><b><br></b></p>
+            <p style="text-align: center;">[Upload Image Here]<b><br></b></p>
+            <p style="text-align: center;"><b>Image-2 Caption<br></b></p>
+            <p style="text-align: center;"><b><br></b></p><br>
+            <p style="text-align: center;"><b><br></b></p>
+        </div>
+    </div>
+</div>
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-12">
+            <p></p>
+            <p><strong>Subtitle Example<br></strong></p>
+            <p>Editable text<br></p>
+            <p>Lorem ipsum dolor sit amet, ad adhuc accusamus mei. Nostrud dissentiunt cum et, eum cu choro ignota adipisci. Aliquam labores vim eu. Id aperiri deterruisset mei, te eos facete antiopam.Ei vidisse consulatu cotidieque vis. Assum fabellas nec
+                in, qui bonorum euripidis at. Putant patrioque scripserit ius ut. Mea ne malis tantas, in tota integre euripidis vix. Novum nonumes disputationi an vix, ad soluta ponderum reprehendunt eos.Ne melius alienum mnesarchum nam, aperiri legendos
+                inimicus ut mea, ea sea veri sadipscing eloquentiam. Vix ne vide fabellas referrentur, eos hinc ferri sanctus an, est et nibh intellegebat. Qui ex natum partiendo, tantas philosophia sed in, mei ad debitis inermis. Nisl nominati quaestio
+                duo an. Scaevola fabellas sit id, et volumus democritum rationibus vix, dolorum erroribus id mei.Per audiam delenit disputationi id, quo audiam vivendo ea. Te eros semper honestatis his. In pro iusto congue, per doming animal ei. Eu per
+                tamquam nusquam luptatum. Quo at noluisse adolescens concludaturque, quo maiestatis neglegentur ex.In equidem docendi instructior quo, commodo similique per ea. Sed an iusto iisque epicuri, at laoreet invenire vix, has ne posse accusata
+                maiestatis. An usu sonet comprehensam vituperatoribus, erant vidisse eleifend no nam. Vix quod perpetua ullamcorper in.</p>
+            <p></p>
+        </div>
+    </div>
+</div>
+<br>
+//BOOK - 3 columns with images centered (3+6+3)//
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-3">
+            <p></p>
+            <p><strong></strong></p>
+            <p><strong>Subtitle Example 1</strong></p>
+            <p>Editable text<br><strong></strong></p>
+            <p>Lorem ipsum dolor sit amet, ad adhuc accusamus mei. Nostrud dissentiunt cum et, eum cu choro ignota adipisci. Aliquam labores vim eu. Id aperiri deterruisset mei, te eos facete antiopam.Ei vidisse consulatu cotidieque vis. Assum fabellas nec
+                in, qui bonorum euripidis at. Putant patrioque scripserit ius ut. Mea ne malis tantas, in tota integre euripidis vix. Novum nonumes disputationi an vix, ad soluta ponderum reprehendunt eos.Ne melius alienum mnesarchum nam, aperiri legendos
+                inimicus ut mea, ea sea veri sadipscing eloquentiam. Vix ne vide fabellas referrentur, eos hinc ferri sanctus an, est et nibh intellegebat. Qui ex natum partiendo, tantas philosophia sed in, mei ad debitis inermis. Nisl nominati quaestio
+                duo an. Scaevola fabellas sit id, et volumus democritum rationibus vix, dolorum erroribus id mei.Per audiam delenit disputationi id, quo audiam vivendo ea. Te eros semper honestatis his. In pro iusto congue, per doming animal ei. Eu per
+                tamquam nusquam luptatum. Quo at noluisse adolescens concludaturque, quo maiestatis neglegentur ex.In equidem docendi instructior quo, commodo similique per ea. Sed an iusto iisque epicuri, at laoreet invenire vix, has ne posse accusata
+                maiestatis. An usu sonet comprehensam vituperatoribus, erant vidisse eleifend no nam. Vix quod perpetua ullamcorper in.</p>
+            <p></p>
+            <p></p>
+        </div>
+        <div class="col-md-6">
+            <p><br></p>
+            <p style="text-align: center;"></p>
+            <div>
+                <p style="text-align: center;">[Upload Image Here]<br></p>
+                <p style="text-align: center;"><b>Image-1 Caption <br></b></p>
+                <p style="text-align: center;"><b><br></b></p>
+                <p style="text-align: center;">[Upload Image Here]<b><br></b></p>
+                <p style="text-align: center;"><b>Image-2 Caption<br></b></p>
+                <p style="text-align: center;"><b><br></b></p>
+                <p style="text-align: center;">[Upload Image Here]<br><b></b></p>
+                <p style="text-align: center;"><b>Image-3 Caption<br></b></p>
+                <p><b><br></b></p>
+                <p><b><br></b></p>
+            </div><br>
+            <p></p>
+        </div>
+        <div class="col-md-3">
+            <p></p>
+            <p><strong></strong></p>
+            <p><strong>Subtitle Example 2</strong></p>
+            <p>Editable text<br><strong></strong></p>
+            <p>Lorem ipsum dolor sit amet, ad adhuc accusamus mei. Nostrud dissentiunt cum et, eum cu choro ignota adipisci. Aliquam labores vim eu. Id aperiri deterruisset mei, te eos facete antiopam.Ei vidisse consulatu cotidieque vis. Assum fabellas nec
+                in, qui bonorum euripidis at. Putant patrioque scripserit ius ut. Mea ne malis tantas, in tota integre euripidis vix. Novum nonumes disputationi an vix, ad soluta ponderum reprehendunt eos.Ne melius alienum mnesarchum nam, aperiri legendos
+                inimicus ut mea, ea sea veri sadipscing eloquentiam. Vix ne vide fabellas referrentur, eos hinc ferri sanctus an, est et nibh intellegebat. Qui ex natum partiendo, tantas philosophia sed in, mei ad debitis inermis. Nisl nominati quaestio
+                duo an. Scaevola fabellas sit id, et volumus democritum rationibus vix, dolorum erroribus id mei.Per audiam delenit disputationi id, quo audiam vivendo ea. Te eros semper honestatis his. In pro iusto congue, per doming animal ei. Eu per
+                tamquam nusquam luptatum. Quo at noluisse adolescens concludaturque, quo maiestatis neglegentur ex.In equidem docendi instructior quo, commodo similique per ea. Sed an iusto iisque epicuri, at laoreet invenire vix, has ne posse accusata
+                maiestatis. An usu sonet comprehensam vituperatoribus, erant vidisse eleifend no nam. Vix quod perpetua ullamcorper in.</p>
+            <div>
+                <p></p>
+            </div>
+            <p></p>
+        </div>
+    </div>
+</div>
+<br>
+//BOOK - multi-comparison page (12/6+3+3)//
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-12">
+            <p></p>
+            <p><strong>Subtitle Example 1<br></strong></p>
+            <p>Editable text<br></p>
+            <p>Lorem ipsum dolor sit amet, ad adhuc accusamus mei. Nostrud dissentiunt cum et, eum cu choro ignota adipisci. Aliquam labores vim eu. Id aperiri deterruisset mei, te eos facete antiopam.Ei vidisse consulatu cotidieque vis. Assum fabellas nec
+                in, qui bonorum euripidis at. Putant patrioque scripserit ius ut. Mea ne malis tantas, in tota integre euripidis vix. Novum nonumes disputationi an vix, ad soluta ponderum reprehendunt eos.Ne melius alienum mnesarchum nam, aperiri legendos
+                inimicus ut mea, ea sea veri sadipscing eloquentiam. Vix ne vide fabellas referrentur, eos hinc ferri sanctus an, est et nibh intellegebat. Qui ex natum partiendo, tantas philosophia sed in, mei ad debitis inermis. Nisl nominati quaestio
+                duo an. Scaevola fabellas sit id, et volumus democritum rationibus vix, dolorum erroribus id mei.Per audiam delenit disputationi id, quo audiam vivendo ea. Te eros semper honestatis his. In pro iusto congue, per doming animal ei. Eu per
+                tamquam nusquam luptatum. Quo at noluisse adolescens concludaturque, quo maiestatis neglegentur ex.In equidem docendi instructior quo, commodo similique per ea. Sed an iusto iisque epicuri, at laoreet invenire vix, has ne posse accusata
+                maiestatis. An usu sonet comprehensam vituperatoribus, erant vidisse eleifend no nam. Vix quod perpetua ullamcorper in.</p>
+            <p></p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-6">
+            <p></p>
+            <p><strong>Subtitle Example 2<br></strong></p>
+            <p>Editable text<br></p>
+            <p>Lorem ipsum dolor sit amet, ad adhuc accusamus mei. Nostrud dissentiunt cum et, eum cu choro ignota adipisci. Aliquam labores vim eu. Id aperiri deterruisset mei, te eos facete antiopam.Ei vidisse consulatu cotidieque vis. Assum fabellas nec
+                in, qui bonorum euripidis at. Putant patrioque scripserit ius ut. Mea ne malis tantas, in tota integre euripidis vix. Novum nonumes disputationi an vix, ad soluta ponderum reprehendunt eos.Ne melius alienum mnesarchum nam, aperiri legendos
+                inimicus ut mea, ea sea veri sadipscing eloquentiam. Vix ne vide fabellas referrentur, eos hinc ferri sanctus an, est et nibh intellegebat. Qui ex natum partiendo, tantas philosophia sed in, mei ad debitis inermis. Nisl nominati quaestio
+                duo an. Scaevola fabellas sit id, et volumus democritum rationibus vix, dolorum erroribus id mei.Per audiam delenit disputationi id, quo audiam vivendo ea. Te eros semper honestatis his. In pro iusto congue, per doming animal ei. Eu per
+                tamquam nusquam luptatum. Quo at noluisse adolescens concludaturque, quo maiestatis neglegentur ex.In equidem docendi instructior quo, commodo similique per ea. Sed an iusto iisque epicuri, at laoreet invenire vix, has ne posse accusata
+                maiestatis. An usu sonet comprehensam vituperatoribus, erant vidisse eleifend no nam. Vix quod perpetua ullamcorper in.</p>
+            <p></p>
+        </div>
+        <div class="col-md-3">
+            <p><b>Text or Images</b></p>
+            <p>(Column 2)<br></p>
+        </div>
+        <div class="col-md-3">
+            <p><b>Text or Images</b></p>
+            <p>(Column 3)<br></p>
+        </div>
+    </div>
+</div>
+<br>
